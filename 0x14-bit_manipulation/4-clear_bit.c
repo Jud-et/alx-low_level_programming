@@ -17,4 +17,4 @@ i = ~(1 << index);
 *j = *j & i;
 
 return (1);
-}i
+}
