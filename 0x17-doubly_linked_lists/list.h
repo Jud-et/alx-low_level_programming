@@ -7,7 +7,7 @@
  * 
  * @prev: points to the previous node
  * @next: points to the next node
- * 
+ *return() 
  */
 typedef struct dlistint_s
 {
